@@ -1,1 +1,1 @@
-# give_cheese_to_mouse
+A simple game using c and c++.
