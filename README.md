@@ -1,1 +1,1 @@
-A simple game using c and c++.
+A simple game using C and C++.
